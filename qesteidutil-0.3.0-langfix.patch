@@ -1,0 +1,15 @@
+diff -uNr qesteidutil-0.2.0/src/html/index.html qesteidutil-0.2.0p/src/html/index.html
+--- qesteidutil-0.2.0/src/html/index.html	2009-11-20 17:56:56.000000000 +0200
++++ qesteidutil-0.2.0p/src/html/index.html	2009-11-23 14:52:09.660413900 +0200
+@@ -19,9 +19,9 @@
+           <div id="readerSelectDiv" style="display: none;"><select id="readerSelect" onChange="selectReader();"></select></div>
+           <div id="headerSelectDiv">
+         <select id="headerSelect" onChange="selectLanguage();">
+-          <option value="et">Estonian</option>
++          <option value="et">Eesti</option>
+           <option value="en">English</option>
+-          <option value="ru">Russian</option>
++          <option value="ru">Русский</option>
+         </select>
+       </div>
+     </div>
