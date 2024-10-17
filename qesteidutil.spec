@@ -9,7 +9,7 @@ Summary:	Estonian ID card utility
 
 Group:		Office
 License:	LGPLv2+
-URL:		http://code.google.com/p/esteid
+URL:		https://code.google.com/p/esteid
 Source0:	http://esteid.googlecode.com/files/%{name}-%{version}.tar.bz2
 Patch0:		%{name}-%{version}-langfix.patch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
