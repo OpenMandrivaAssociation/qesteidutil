@@ -1,6 +1,6 @@
 %define version 0.3.0
 %define rel 1
-%define release %mkrel %rel
+%define release %rel.1
 
 Name:		qesteidutil
 Version:	%{version}
